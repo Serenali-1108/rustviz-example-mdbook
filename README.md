@@ -17,7 +17,7 @@ cargo install mdbook
 1. Clone the branch user_designed_book of this repo and have an empty book with some sample code. 
 
 ```
-git clone -b user_designed_book https://github.com/fplab/rustviz-tutorial.git
+git clone https://github.com/rustviz/rustviz-example-mdbook.git
 ```
 
 
